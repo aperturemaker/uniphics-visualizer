@@ -1,10 +1,13 @@
 # Uniphics Visualizer
 
+## 🎬 Preview
+
+![Preview](public/preview/demo.gif)
+
 ![Vite](https://img.shields.io/badge/Vite-⚡-646CFF?logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/React-⚛️-61DAFB?logo=react&logoColor=black)
 ![License](https://img.shields.io/badge/License-None-lightgrey)
 ![Status](https://img.shields.io/badge/status-active-success)
-``
 
 # React + Vite
 
