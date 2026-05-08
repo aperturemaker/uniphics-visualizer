@@ -14,3 +14,94 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+Uniphics Visualizer
+A modern audio/visual experimentation project built with React + Vite.
+This repository provides a fast and modular setup to develop a real-time visualizer with performant rendering and clean front-end architecture.
+
+
+🚀 Quick Start
+Clone the repository and run the project locally:
+
+git clone https://github.com/aperturemaker/uniphics-visualizer.git
+cd uniphics-visualizer
+npm install
+npm run dev
+
+Then open: http://localhost:5173
+
+
+🧱 Tech Stack
+
+⚛️ React
+⚡ Vite
+🎨 CSS
+✅ ESLint
+Optional plugins available:
+
+https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react (uses Oxc)
+https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc (uses SWC)
+
+
+⚙️ Development Notes
+
+Hot Module Replacement (HMR) enabled for fast iteration
+Optimized build pipeline via Vite
+Clean ESLint configuration included
+React Compiler
+Not enabled by default due to performance considerations.
+Documentation: 👉 https://react.dev/learn/react-compiler/installation
+
+
+📂 Project Structure (simplified)
+src/
+  ├── App.jsx
+  ├── main.jsx
+  ├── assets/
+  └── ...
+public/
+index.html
+vite.config.js
+
+
+🤝 Contributing
+Contributions are welcome!
+How to contribute:
+
+Fork the repository
+
+Create a branch:
+git checkout -b feature/amazing-feature
+
+1. Commit your changes:
+git commit -m "feat: add amazing feature"
+
+2. Push your branch:
+git push origin feature/amazing-feature
+
+3. Open a Pull Request on GitHub
+
+🧠 Commit Convention (recommended)
+Use simple prefixes:
+
+feat: new feature
+fix: bug fix
+style: UI / CSS changes
+refactor: code cleanup
+Example: feat: add audio visualizer core
+
+
+📜 License
+No license specified yet.
+
+
+👤 Author
+GitHub: https://github.com/aperturemaker
+
+
+🔗 Repository
+👉 https://github.com/aperturemaker/uniphics-visualizer
+
+
+
